@@ -11,3 +11,5 @@ end.
 ```
 
 [Pascal cơ bản](Pascalcoban.md)
+
+[Trang 3: Số thân thiện](BaiTap/T3_SoThanThien/)
