@@ -18,6 +18,8 @@ end.
 
 [Trang 18: Siêu nguyên tố: Số P gọi là siêu nguyên tố nếu nó nguyên tố và khi ta bỏ lần lượt các chữ số ở hàng đơn vị từ trái qua phải thì số mới nhận được vẫn là một số nguyên tố. Đếm số lượng số nguyên tố có n chữ số.](BaiTap/T18_Bai5_SieuNguyenTo/)
 
+[Trang 19: Bài 1: Trong một buổi sinh hoạt câu lạc bộ Tin học, thầy giáo ra một bài toán như sau: Từ số hạng đầu tiên của dãy số Fibinacci, thành lập dãy mới gồm n số bằng cách lần lượt thay mỗi số hạng bằng số dư của số hạng đó khi chia cho 100.<br/> Nhập vào từ file FIBO.INP số nguyên dương n duy nhất. <br/> Xuất ra màn hình: <br/> + Dòng 1: in ra số hạng thứ n trong dãy mới. <br/> + Dòng 2: in ra số hạng các giá trị khác nhau trong dãy mới.](BaiTap/T19_Bai1_PhanMang/)
+
 [Trang 22: Bài tập 1: Viết chương trình nhập vào một dãy số nguyên có n phần tử.<br/>
 a. Đưa những phần tử lẻ ra đầu danh sách, phần tử chẵn về cuối danh sách và in kết quả ra màn hình.<br/>
 b. Sắp xếp các phần tử lẻ ra đầu danh sách theo thứ tự tăng dần, sắp xếp các phần tử chẵn về cuối danh sách theo thứ tự giảm dần và in kết quả ra màn hình](BaiTap/T22_Bai01/)
