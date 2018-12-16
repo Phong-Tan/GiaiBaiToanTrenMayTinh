@@ -12,7 +12,7 @@ end.
 
 [Pascal cơ bản](Pascalcoban.md)
 
-[Trang 3: Số thân thiện](BaiTap/T3_SoThanThien/)
+[Trang 3: Số thân thiện: Tìm tất cả các số tự nhiên có hai chữ số mà khi đảo trật tự của hai chữ số đó sẽ thu được một số nguyên tố cùng nhau với số nguyên tố đã cho](BaiTap/T3_SoThanThien/)
 
 [Trang 6: Cấp số cộng](BaiTap/T6_SoCapCong/)
 
