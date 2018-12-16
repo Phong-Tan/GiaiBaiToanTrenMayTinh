@@ -14,4 +14,10 @@ end.
 
 [Trang 3: Số thân thiện](BaiTap/T3_SoThanThien/)
 
+[Trang 6: Cấp số cộng](BaiTap/T6_SoCapCong/)
+
+[Trang 18: Siêu nguyên tố](BaiTap/T18_Bai5_SieuNguyenTo/)
+
+[Trang 22: Bài tập 1](BaiTap/T22_Bai01/)
+
 [Trang 34: Bài 3](BaiTap/T34_Bai3/)
