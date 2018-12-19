@@ -10,7 +10,8 @@ begin
 end.
 ```
 
-[Pascal cơ bản](Pascalcoban.md)<br/>
+[Pascal cơ bản](Pascalcoban.md)<br />
+
 | Tên bài | Đề bài |
 | ------------- | ----------- |
 | [T03_SoThanThien](BaiTap/T3_SoThanThien/) | Tìm tất cả các số tự nhiên có hai chữ số mà khi đảo trật tự của hai chữ số đó sẽ thu được một số nguyên tố cùng nhau với số nguyên tố đã cho |
@@ -25,4 +26,3 @@ end.
 | [T22_BT06_DayTangDaiNhat](T22_BT06_DayTangDaiNhat) | Cho dãy gồm n số nguyên. Tìm đoạn không giảm có chiều dài lớn nhất |
 | [T34_Bai03](BaiTap/T34_Bai3/) | Cho xâu S chứa không quá 255 ký tự chỉ gồm các chữ cái tiếng anh thường và chữ số, trong đó có ít nhất một chữ số. Các chữ số kế tiếp nhau trong S tạo thành một số tự nhiên có nghĩa, tức là không xét các chữ số 0 vô nghĩa ở đầu.<br/>a. Tính số lượng các chữ số khác nhau có mặt trong dãy.<br/>b. Sắp xếp tăng dần các chữ số trong xâu sau khi loại bỏ các chữ số 0 vô nghĩa ở đầu mỗi số. Các ký tự khác giữ nguyên thứ tự. Giả thiết mỗi xâu con của S có không quá 6 chữ số liên tục |
 |  |  |
-
