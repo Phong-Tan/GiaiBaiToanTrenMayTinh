@@ -1,3 +1,6 @@
+{Một xâu ký tự có thể nén theo cách sau: Một xâu con gồm n > 1 ký tự giống nhau, chẳng hạn gồm n ký tự 'a' sẽ được 
+ghi thành na. Ví dụ xâu 'aaaabbcd' sẽ được nén thành 4a2bcd. 
+Hãy viết chương trình nén và giải nén. (Chú ý trong các xâu được nén phải không có chữ số)}
 program T29_Bai2_NenVaGiainen;
 var
 	s1, s2, kqnen, kqgiainen: String;
@@ -82,7 +85,7 @@ begin
 	GiaiNen := kqgiainen;
 end;
 
-begin
+BEGIN
 	DocDuLieu();
 	writeln('Chuoi truoc khi nen: ', s1);
 	kqnen := Nen();
@@ -92,4 +95,4 @@ begin
 	writeln('Chuoi sau khi giai nen: ', kqgiainen);
 	GhiDuLieu();
 	readln
-end.
+END.
