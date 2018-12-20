@@ -1,5 +1,5 @@
 { Cho xâu S có độ dài không vượt quá 1000 ký tự. Tìm xâu palindrome con dài nhất là xâu con của S }
-program T30_Bai1_XauPalindrome2;
+program T30_Bai2_XauPalindrome2;
 var
 	s: String;
 
