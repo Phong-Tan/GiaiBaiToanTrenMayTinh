@@ -14,7 +14,7 @@ end.
 
 | Tên bài | Đề bài |
 | ------------- | ----------- | 
-|TRANG 03|
+|**TRANG 03**|
 | [T03_SoThanThien](BaiTap/T3_SoThanThien/) | Tìm tất cả các số tự nhiên có hai chữ số mà khi đảo trật tự của hai chữ số đó sẽ thu được một số nguyên tố cùng nhau với số nguyên tố đã cho. |
 |TRANG 06|
 | [T06_CapSoCong](BaiTap/T6_SoCapCong/) | Tìm các số tự nhiên lẻ có ba chữ số. Ba chữ số này theo thứ tự trái qua phải tạo thành một cấpp số cộng. |
