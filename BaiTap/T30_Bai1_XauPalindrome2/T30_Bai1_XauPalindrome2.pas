@@ -13,7 +13,6 @@ end;
 function XauConDaiNhat(): String;
 var
 	truoc, sau, max, start, i: Integer;
-	kq: String;
 begin
 	//Truong hop xau s rong
 	if length(s) = 0 then 
