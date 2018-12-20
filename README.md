@@ -28,7 +28,7 @@ end.
 | [BT03](BaiTap/T22_BT03_SapXep3MangABC) | Viết chương trình nhập vào từ bàn phím mảng một chiều A gồm M phần tử, mảng một chiều B gồm N phần tử, sắp xếp 2 dãy A và B tăng dần và sau đó trộn 2 dãy thành dãy C sao cho dãy C cũng là dãy đã được sắp xếp tăng dần. In mảng A, B, C ra màn hình. |
 | [BT04](BaiTap/T22_BT04_ChenMotSoVaoDayGiam) | Nhập vào một mảng số nguyên.<br/>a. Xếp lại mảng đó theo thứ tự giảm dần.<br/>b. Nhập vào một số nguyên từ bàn phím. Chèn số đó vào mảng sao cho mảng vẫn có thứ tự giảm dần (không được sắp xếp lại mảng). |
 | [BT05](BaiTap/T22_BT05_LoaiBoPtX) | Nhập mảng gồm n số nguyên từ bàn phím. Sau đó nhập số nguyên X. Hãy loại bỏ các phần tử bằng X. In dãy ra màn hình. |
-| [T22](BaiTap/T22_BT06_DayTangDaiNhat) | Cho dãy gồm n số nguyên. Tìm đoạn không giảm có chiều dài lớn nhất. |
+| [BT06](BaiTap/T22_BT06_DayTangDaiNhat) | Cho dãy gồm n số nguyên. Tìm đoạn không giảm có chiều dài lớn nhất. |
 |**TRANG 26**|
 | [T26_Bai03_TimSo](BaiTap/T26_Bai3_TimSo) | Cho trước một xâu ký tự, trong đó có ít nhất 5 chữ số. Hãy loại bỏ một số ký tự ra khỏi xâu sao cho 5 ký tự cuối cùng còn lại theo thứ tự đó tạo thành số lớn nhất. Dữ liệu đầu vào: tệp DL.INP. Kết quả in ra màn hình. |
 | [T28_Bai04_SoNhoNhat](BaiTap/T28_Bai4_SoNhoNhat) | Một số nguyên n rất lớn có thể được cho bởi P (P <= 20) số nguyên dương A và P xâu ký tự s1, s2,..., sp (độ dài các xâu không vượt quá 255) chỉ gồm các số thập phân bằng cách viết s1 liên tiếp A1 lần rồi viết s2 liên tiếp A2 lần,..., viết sp liên tiếp Ap lần.<br/> Giả sử với số n được cho như trên và cho trước số nguyên dương k nhỏ hơn số chữ số của n. Hãy tìm cách gạch đi k chữ số của n để nhận được một số có giá trị nhỏ nhất. |
