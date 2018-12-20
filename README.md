@@ -15,7 +15,8 @@ end.
 | Tên bài | Đề bài |
 | ------------- | ----------- |  
 | [T03_SoThanThien](BaiTap/T3_SoThanThien/) | Tìm tất cả các số tự nhiên có hai chữ số mà khi đảo trật tự của hai chữ số đó sẽ thu được một số nguyên tố cùng nhau với số nguyên tố đã cho. | 
-| [T06_CapSoCong](BaiTap/T6_SoCapCong/) | Tìm các số tự nhiên lẻ có ba chữ số. Ba chữ số này theo thứ tự trái qua phải tạo thành một cấpp số cộng. | 
+| [T06_CapSoCong](BaiTap/T6_SoCapCong/) | Tìm các số tự nhiên lẻ có ba chữ số. Ba chữ số này theo thứ tự trái qua phải tạo thành một cấpp số cộng. |
+| [T09_Bai1.5_ChiaMang11](BaiTap/T9_Bai1.5_ChiaMang11/) | **Chia mảng tỉ lệ 1:1** Tìm cách chia dãy số nguyên không âm a1, a2,...,an với n > 1 cho trước thành hai đoạn có tổng các phần tử trong mỗi đoạn bằng nhau |
 | [T18_SieuNguyenTo](BaiTap/T18_Bai5_SieuNguyenTo/) | Số P gọi là siêu nguyên tố nếu nó nguyên tố và khi ta bỏ lần lượt các chữ số ở hàng đơn vị từ trái qua phải thì số mới nhận được vẫn là một số nguyên tố. Đếm số lượng số nguyên tố có n chữ số. |
 | [T19_Bai01_BaiTapTuGiai](BaiTap/T19_Bai1_BaiTapTuGiai/) | Cho số tự nhiên n. Phân tích n = A + B sao cho UCLN(A, B) là lớn nhất với 2 <= n <= 10^9. | 
 | [T19_Bai01_PhanMang](BaiTap/T19_Bai1_PhanMang/) | Trong một buổi sinh hoạt câu lạc bộ Tin học, thầy giáo ra một bài toán như sau: Từ số hạng đầu tiên của dãy số Fibinacci, thành lập dãy mới gồm n số bằng cách lần lượt thay mỗi số hạng bằng số dư của số hạng đó khi chia cho 100.<br/> Nhập vào từ file FIBO.INP số nguyên dương n duy nhất. <br/> Xuất ra màn hình: <br/> + Dòng 1: in ra số hạng thứ n trong dãy mới. <br/> + Dòng 2: in ra số hạng các giá trị khác nhau trong dãy mới. | 
