@@ -17,6 +17,7 @@ end.
 | [T03_SoThanThien](BaiTap/T3_SoThanThien/) | Tìm tất cả các số tự nhiên có hai chữ số mà khi đảo trật tự của hai chữ số đó sẽ thu được một số nguyên tố cùng nhau với số nguyên tố đã cho. | 
 | [T06_CapSoCong](BaiTap/T6_SoCapCong/) | Tìm các số tự nhiên lẻ có ba chữ số. Ba chữ số này theo thứ tự trái qua phải tạo thành một cấpp số cộng. |
 | [T09_Bai1.5_ChiaMang11](BaiTap/T9_Bai1.5_ChiaMang11/) | **Chia mảng tỉ lệ 1:1** Tìm cách chia dãy số nguyên không âm a1, a2,...,an với n > 1 cho trước thành hai đoạn có tổng các phần tử trong mỗi đoạn bằng nhau |
+| [T16_Bai3_GiaiThua](BaiTap/T16_Bai3_GiaiThua) | Cho số tự nhiên n. P = n!. Hỏi:<br/>a. Có bao nhiêu chữ số 0 tận cùng.<br/>b. Số khác 0 tận cùng của P là chữ số nào. |
 | [T17_Bai4_TinhTongChuSo](BaiTap/T17_Bai4_TinhTongChuSo) | **Tính tổng chữ số** Một quyển sách có n trang. Hỏi:<br/>a. Tổng tất cả các chữ số đã ghi trên các trang sách.<br/>b. Mỗi chữ số xuất hiện bao nhiêu lần |
 | [T18_SieuNguyenTo](BaiTap/T18_Bai5_SieuNguyenTo/) | Số P gọi là siêu nguyên tố nếu nó nguyên tố và khi ta bỏ lần lượt các chữ số ở hàng đơn vị từ trái qua phải thì số mới nhận được vẫn là một số nguyên tố. Đếm số lượng số nguyên tố có n chữ số. |
 | [T19_Bai01_BaiTapTuGiai](BaiTap/T19_Bai1_BaiTapTuGiai/) | Cho số tự nhiên n. Phân tích n = A + B sao cho UCLN(A, B) là lớn nhất với 2 <= n <= 10^9. | 
