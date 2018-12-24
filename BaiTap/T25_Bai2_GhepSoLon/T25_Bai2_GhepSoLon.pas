@@ -28,7 +28,8 @@ begin
 			s1 := s[i]; s2 := s[j];
 			while length(s1) < length(s2) do s1 += '0';
 			while length(s2) < length(s1) do s2 += '0';
-			if s1 < s2 then
+			
+			if (s1 < s2) or ((s1 = s2) and (length(s[i]) > length(s[j])))then
 			begin
 				temp := s[i]; s[i] := s[j]; s[j] := temp;
 			end;
