@@ -13,7 +13,8 @@ end.
 [Pascal cơ bản](Pascalcoban.md)<br />
 
 | Tên bài | Đề bài |
-| ------------- | ----------- |  
+| ------------- | ----------- |
+| [Đổi cơ số](BaiTap/DoiCoSo) | Đổi số n từ hệ cơ số 10 sang hệ cơ số 16.<br/>Đổi số n từ hệ cơ số 10 sang hệ cơ số bất kỳ dưới 10 | 
 | [T03_SoThanThien](BaiTap/T3_SoThanThien/) | **Số thân thiện:** Tìm tất cả các số tự nhiên có hai chữ số mà khi đảo trật tự của hai chữ số đó sẽ thu được một số nguyên tố cùng nhau với số nguyên tố đã cho. | 
 | [T06_SoCapCong](BaiTap/T6_SoCapCong/) | **Số cấp cộng:** Tìm các số tự nhiên lẻ có ba chữ số. Ba chữ số này theo thứ tự trái qua phải tạo thành một cấpp số cộng. |
 | [T08_Bai1.3_SoCapNhan](BaiTap/T8_Bai1.3_SoCapNhan) | **Số cấp nhân:** Tìm các số tự nhiên có ba chữ số. Ba chữ số này, theo trật tự từ trái qua phải tạo thành một cấp số nhân với công bội là một số tự nhiên khác 0. |
