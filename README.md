@@ -20,6 +20,7 @@ end.
 | [T08_Bai1.3_SoCapNhan](BaiTap/T8_Bai1.3_SoCapNhan) | **Số cấp nhân:** Tìm các số tự nhiên có ba chữ số. Ba chữ số này, theo trật tự từ trái qua phải tạo thành một cấp số nhân với công bội là một số tự nhiên khác 0. |
 | [T09_Bai1.4_MangNgauNhien](BaiTap/T9_Bai1.4_MangNgauNhien) | **Mảng ngẫu nhiên:** Sinh ngẫu nhiên n số nguyên không âm cho mảng nguyên A. |
 | [T09_Bai1.5_ChiaMang11](BaiTap/T9_Bai1.5_ChiaMang11/) | **Chia mảng tỉ lệ 1:1** Tìm cách chia dãy số nguyên không âm a1, a2,...,an với n > 1 cho trước thành hai đoạn có tổng các phần tử trong mỗi đoạn bằng nhau |
+| [T16_Bai2_RutGonPhanSo](BaiTap/T16_Bai2_RutGonPhanSo) | **Rút gọn phân số:**  Cho phân số a/b trong đó a là số nguyên và b là số tự nhiên khác 0. Hãy tìm hai số c, d sao cho phân số c/d tối giản và a/b = c/d |
 | [T16_Bai3_GiaiThua](BaiTap/T16_Bai3_GiaiThua) | **Giai thừa:** Cho số tự nhiên n. P = n!. Hỏi:<br/>a. Có bao nhiêu chữ số 0 tận cùng.<br/>b. Số khác 0 tận cùng của P là chữ số nào. |
 | [T17_Bai4_TinhTongChuSo](BaiTap/T17_Bai4_TinhTongChuSo) | **Tính tổng chữ số** Một quyển sách có n trang. Hỏi:<br/>a. Tổng tất cả các chữ số đã ghi trên các trang sách.<br/>b. Mỗi chữ số xuất hiện bao nhiêu lần |
 | [T18_SieuNguyenTo](BaiTap/T18_Bai5_SieuNguyenTo/) | **Siêu nguyên tố:** Số P gọi là siêu nguyên tố nếu nó nguyên tố và khi ta bỏ lần lượt các chữ số ở hàng đơn vị từ trái qua phải thì số mới nhận được vẫn là một số nguyên tố. Đếm số lượng số nguyên tố có n chữ số. |
