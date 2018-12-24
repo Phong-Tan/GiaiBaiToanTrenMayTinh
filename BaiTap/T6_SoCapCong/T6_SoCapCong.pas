@@ -1,3 +1,4 @@
+{Tìm các số tự nhiên là có ba chữ số. Ba chữ số này theo thứ tự trái qua phải tạo thành mộtt cấp số cộng.}
 Program CapCong;
 uses crt;
 const
@@ -23,22 +24,24 @@ begin
 	Tim:=d;
 end;
 (**** Hien thi ket qua ****)
-procedure Xem(n: integer)
+procedure Xem(n: integer);
+var
+	i: Integer;
 begin
 	for i:=1 to n do
 	begin
-		write('so',s[i],);
-		if( n mod 20 = 0)
-		writeln;
+		write(s[i], '  ');
+		if( n mod 20 = 0) then writeln;
 	end;
-end
-begin
+end;
+
+BEGIN
 	n:=tim;
 	Xem(n);
 	writeln;
-	writeln('Tong cong ',n,'so');
+	writeln('Tong cong: ',n,' so');
 	readln;
-end.
+END.
 
 
 
